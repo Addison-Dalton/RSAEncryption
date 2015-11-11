@@ -1,0 +1,13 @@
+c:\users\owner\documents\visual studio 2013\Projects\abdEncyptPrac\abdEncyptPrac\bin\Debug\abdEncyptPrac.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\abdEncyptPrac\abdEncyptPrac\bin\Debug\abdEncyptPrac.exe
+c:\users\owner\documents\visual studio 2013\Projects\abdEncyptPrac\abdEncyptPrac\bin\Debug\abdEncyptPrac.pdb
+c:\users\owner\documents\visual studio 2013\Projects\abdEncyptPrac\abdEncyptPrac\obj\Debug\abdEncyptPrac.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2013\Projects\abdEncyptPrac\abdEncyptPrac\obj\Debug\abdEncyptPrac.Form1.resources
+c:\users\owner\documents\visual studio 2013\Projects\abdEncyptPrac\abdEncyptPrac\obj\Debug\abdEncyptPrac.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2013\Projects\abdEncyptPrac\abdEncyptPrac\obj\Debug\abdEncyptPrac.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2013\Projects\abdEncyptPrac\abdEncyptPrac\obj\Debug\abdEncyptPrac.exe
+c:\users\owner\documents\visual studio 2013\Projects\abdEncyptPrac\abdEncyptPrac\obj\Debug\abdEncyptPrac.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\abdEncyptPrac\abdEncyptPrac\bin\Debug\abdEncyptPrac.exe.manifest
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\abdEncyptPrac\abdEncyptPrac\bin\Debug\abdEncyptPrac.application
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\abdEncyptPrac\abdEncyptPrac\obj\Debug\abdEncyptPrac.exe.manifest
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\abdEncyptPrac\abdEncyptPrac\obj\Debug\abdEncyptPrac.application
